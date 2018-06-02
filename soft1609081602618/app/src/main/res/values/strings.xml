@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">HzuLife</string>
-    <string name="login_text">登录</string>
-    <string name="text_login">登录</string>
-    <string name="login_button">登录</string>
 </resources>
